@@ -90,3 +90,4 @@ C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngineTes
 C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngineTest\obj\Debug\netcoreapp3.1\BusinessRulesEngineTest.AssemblyInfo.cs
 C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngineTest\obj\Debug\netcoreapp3.1\BusinessRulesEngineTest.csproj.CopyComplete
 C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngineTest\obj\Debug\netcoreapp3.1\BusinessRulesEngineTest.genruntimeconfig.cache
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngineTest\obj\Debug\netcoreapp3.1\BusinessRulesEngineTest.csproj.CoreCompileInputs.cache
