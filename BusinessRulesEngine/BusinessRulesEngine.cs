@@ -7,8 +7,9 @@ namespace BusinessRulesEngine
         static void Main(string[] args)
         {
             Console.WriteLine("Welocme to Order processing");
-            PhysicalProductorPaymentForBook physicalProductorPaymentForBook = new PhysicalProductorPaymentForBook();
-            physicalProductorPaymentForBook.Physicalproduct("Shipping book");
+            IPhysicalproduct physicalproductForBook = new PhysicalProductorPaymentForBook();
+            physicalproductForBook.Physicalproduct("Shipping book");
+            IPaymentForBook physicalProductorPaymentForBook = new PhysicalProductorPaymentForBook();
             physicalProductorPaymentForBook.PaymentForBook("Shipping book");
 
         }
