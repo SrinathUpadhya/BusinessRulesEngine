@@ -1,0 +1,13 @@
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.exe
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.deps.json
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.runtimeconfig.json
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.runtimeconfig.dev.json
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.dll
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRulesEngine.pdb
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.csprojAssemblyReference.cache
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.AssemblyInfoInputs.cache
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.AssemblyInfo.cs
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.csproj.CoreCompileInputs.cache
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.dll
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.pdb
+C:\Users\srinath.upadhya\source\repos\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.genruntimeconfig.cache
